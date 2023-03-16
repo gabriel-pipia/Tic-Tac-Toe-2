@@ -1,3 +1,3 @@
 # Tic-Tac-Toe-2
 
-Preview [tictactoe-2-itstep.netlify.app](https://tictactoe-2-itstep.netlify.app)
+Preview [gp-tictactoe-2.netlify.app](https://gp-tictactoe-2.netlify.app)
